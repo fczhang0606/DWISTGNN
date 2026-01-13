@@ -258,18 +258,24 @@ learns the evolving graph structure at every timestamp
 by integrating the learnable embeddings 
 to describe the initial specific graph structure and 
 the dynamic node features 
-to reflect the gradual changes of the graph evolution.  % DGC
+to reflect the gradual changes of the graph evolution, 
+which solves the limitation of insufficient expressive power 
+of static graph methods.  % DGC
 The Data Transform (DT) module is introduced 
 to first decompose the time series into multiple frequency components via DWT 
 to reveal distinct characteristics of different bands 
 and then encode the transformation results with time position embeddings.
 The lower bands represent slower-varying smoothing trends, 
-while the higher bands represent faster-varying drastic fluctuations.  % DT
-The Frequency Interaction (FI) module is designed 
-to promote the deep interaction between different frequency components.
-Every component absorbs other component's information and 
+while the higher bands represent faster-varying drastic fluctuations.
+Such a separation allows for a more detailed extraction 
+of both time and frequency information than previous decomposition methods.  % DT
+Every input component of Frequency Interaction (FI) module 
+absorbs other component's information and 
 all the processed components are then adaptively fused 
-to acquire the representation for prediction.  % FI
+to acquire the representation for prediction.
+This interaction between different frequency components 
+extracts deeper spatio-temporal features 
+compared with the traditional architecture methods.  % FI
 % If there is N components, the FI module 
 % will generate an interaction matrix $A_{mutal} \in R^{N \times N}$.
 % The noise of the signal can be always filtered out during the high frequency processing part.
