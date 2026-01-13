@@ -1238,6 +1238,15 @@ and includes 17,856 timestamps.
 
 
 \textbf{Table 3} summarizes the hyperparameters used in DWISTGNN.  % Table 3
+Differnet wavelet have different characteristics 
+which can extract distinct patterns from various datasets.
+The db1 wavelet is characterized by orthogonality, good time-domain localization 
+and poor frequency-domain localization, 
+making it suitable for analyzing step-like or blocky signals.
+The sym2 wavelet is characterized by approximate symmetry, 
+reduced phase distortion and increased smoothness.
+The coif1 wavelet features dual vanishing moments, 
+resulting in more accurate sampling approximation.
 Epoch ($E$) limits the iterations to prevent overfitting.  % E
 Wavelets including coif1, db1 and sym2 of distinct characteristics 
 are used to implement DWT across different datasets.  % wavelet
