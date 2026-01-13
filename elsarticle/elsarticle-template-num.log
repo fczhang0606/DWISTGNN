@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  25 OCT 2025 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  13 JAN 2026 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,7 +466,7 @@ Package: relsize 2013/03/29 ver 4.1
 \algocf@algoframe=\box93
 \algocf@algobox=\box94
 )
-(./elsarticle-template-num.aux)
+No file elsarticle-template-num.aux.
 \openout1 = `elsarticle-template-num.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -483,7 +483,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
-
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count329
@@ -533,34 +532,383 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<figs/fig_2.png, id=14, 760.34062pt x 545.03625pt>
-File: figs/fig_2.png Graphic file (type png)
-<use figs/fig_2.png>
-Package pdftex.def Info: figs/fig_2.png  used on input line 137.
-(pdftex.def)             Requested size: 351.97273pt x 252.30818pt.
 
-[2 <./figs/fig_2.png (PNG copy)>] [3] [4{/usr/local/texlive/2023/texmf-dist/fon
-ts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Package natbib Warning: Citation `wang2024deepwind' on page 2 undefined on inpu
+t line 129.
+
+
+Package natbib Warning: Citation `xu2024dgformer' on page 2 undefined on input 
+line 129.
+
+
+Package natbib Warning: Citation `yang2024long' on page 2 undefined on input li
+ne 129.
+
+
+Package natbib Warning: Citation `shen2024energy' on page 2 undefined on input 
+line 130.
+
+
+Package natbib Warning: Citation `zhuang2023multi' on page 2 undefined on input
+ line 130.
+
+
+Package natbib Warning: Citation `xing2023stcgcn' on page 2 undefined on input 
+line 130.
+
+
+Package natbib Warning: Citation `kong2023dynamic' on page 2 undefined on input
+ line 131.
+
+
+Package natbib Warning: Citation `li2024st' on page 2 undefined on input line 1
+31.
+
+
+Package natbib Warning: Citation `kong2024spatio' on page 2 undefined on input 
+line 131.
+
+
+LaTeX Warning: File `figs/fig_2.png' not found on input line 137.
+
+
+! Package pdftex.def Error: File `figs/fig_2.png' not found: using draft settin
+g.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.137 ...ics[width=0.95\textwidth]{figs/fig_2.png}
+                                                  
+? 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `box1976analysis' on page 2 undefined on input
+ line 149.
+
+
+Package natbib Warning: Citation `drucker1996support' on page 2 undefined on in
+put line 149.
+
+
+Package natbib Warning: Citation `zivot2006vector' on page 2 undefined on input
+ line 149.
+
+
+Package natbib Warning: Citation `chen2007narx' on page 2 undefined on input li
+ne 149.
+
+
+Package natbib Warning: Citation `frigola2015bayesian' on page 2 undefined on i
+nput line 149.
+
+
+Package natbib Warning: Citation `breiman2001random' on page 2 undefined on inp
+ut line 153.
+
+
+Package natbib Warning: Citation `regression1992introduction' on page 2 undefin
+ed on input line 153.
+
+
+Package natbib Warning: Citation `zhang2003time' on page 2 undefined on input l
+ine 153.
+
+
+Package natbib Warning: Citation `graves2012long' on page 2 undefined on input 
+line 159.
+
+
+Package natbib Warning: Citation `cho2014learning' on page 2 undefined on input
+ line 159.
+
+
+Package natbib Warning: Citation `lecun2002gradient' on page 2 undefined on inp
+ut line 162.
+
+
+Package natbib Warning: Citation `lai2018modeling' on page 2 undefined on input
+ line 164.
+
+
+Package natbib Warning: Citation `shih2019temporal' on page 2 undefined on inpu
+t line 164.
+
+
+Package natbib Warning: Citation `bruna2013spectral' on page 2 undefined on inp
+ut line 171.
+
+
+Package natbib Warning: Citation `defferrard2016convolutional' on page 2 undefi
+ned on input line 171.
+
+
+Package natbib Warning: Citation `kipf2016semi' on page 2 undefined on input li
+ne 171.
+
+
+Package natbib Warning: Citation `jin2023spatio' on page 2 undefined on input l
+ine 175.
+
+
+Package natbib Warning: Citation `corradini2024systematic' on page 2 undefined 
+on input line 175.
+
+
+Package natbib Warning: Citation `li2017diffusion' on page 2 undefined on input
+ line 185.
+
+
+Package natbib Warning: Citation `wu2019graph' on page 2 undefined on input lin
+e 189.
+
+
+Package natbib Warning: Citation `wu2020connecting' on page 2 undefined on inpu
+t line 189.
+
+
+Package natbib Warning: Citation `ta2022adaptive' on page 2 undefined on input 
+line 189.
+
+
+Package natbib Warning: Citation `guo2021learning' on page 2 undefined on input
+ line 195.
+
+
+Package natbib Warning: Citation `lan2022dstagnn' on page 2 undefined on input 
+line 195.
+
+
+Package natbib Warning: Citation `ye2022learning' on page 2 undefined on input 
+line 195.
+
+
+Package natbib Warning: Citation `xia2025prost' on page 2 undefined on input li
+ne 195.
+
+[2] [3]
+
+Package natbib Warning: Citation `liu2022scinet' on page 4 undefined on input l
+ine 206.
+
+
+Package natbib Warning: Citation `wu2021autoformer' on page 4 undefined on inpu
+t line 210.
+
+
+Package natbib Warning: Citation `wang2024timemixer' on page 4 undefined on inp
+ut line 210.
+
+
+Package natbib Warning: Citation `luo2024lsttn' on page 4 undefined on input li
+ne 210.
+
+
+Package natbib Warning: Citation `seo2025st' on page 4 undefined on input line 
+210.
+
+
+Package natbib Warning: Citation `cao2020spectral' on page 4 undefined on input
+ line 216.
+
+
+Package natbib Warning: Citation `zhou2022fedformer' on page 4 undefined on inp
+ut line 216.
+
+
+Package natbib Warning: Citation `yi2023frequency' on page 4 undefined on input
+ line 216.
+
+
+Package natbib Warning: Citation `xu2023fits' on page 4 undefined on input line
+ 216.
+
+
+Package natbib Warning: Citation `tian2025frera' on page 4 undefined on input l
+ine 216.
+
+
+Package natbib Warning: Citation `li2017diffusion' on page 4 undefined on input
+ line 228.
+
+
+Package natbib Warning: Citation `zhao2019t' on page 4 undefined on input line 
+233.
+
+
+Package natbib Warning: Citation `yu2017spatio' on page 4 undefined on input li
+ne 233.
+
+[4]
 Overfull \hbox (5.8247pt too wide) in paragraph at lines 294--297
 \OT1/cmr/m/n/12 var-i-ous fields. DWIST-GNN achieves ex-traor-di-nary per-for-m
 ance, demon-
  []
 
-[5] [6] [7] [8]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Package natbib Warning: Citation `box1976analysis' on page 5 undefined on input
+ line 323.
+
+
+Package natbib Warning: Citation `drucker1996support' on page 5 undefined on in
+put line 327.
+
+
+Package natbib Warning: Citation `zivot2006vector' on page 5 undefined on input
+ line 330.
+
+
+Package natbib Warning: Citation `chen2007narx' on page 5 undefined on input li
+ne 335.
+
+
+Package natbib Warning: Citation `frigola2015bayesian' on page 5 undefined on i
+nput line 336.
+
+
+Package natbib Warning: Citation `breiman2001random' on page 5 undefined on inp
+ut line 341.
+
+
+Package natbib Warning: Citation `regression1992introduction' on page 5 undefin
+ed on input line 342.
+
+
+Package natbib Warning: Citation `zhang2003time' on page 5 undefined on input l
+ine 348.
+
+
+Package natbib Warning: Citation `graves2012long' on page 5 undefined on input 
+line 351.
+
+
+Package natbib Warning: Citation `cho2014learning' on page 5 undefined on input
+ line 351.
+
+
+Package natbib Warning: Citation `lecun2002gradient' on page 5 undefined on inp
+ut line 353.
+
+
+Package natbib Warning: Citation `lai2018modeling' on page 5 undefined on input
+ line 355.
+
+
+Package natbib Warning: Citation `shih2019temporal' on page 5 undefined on inpu
+t line 358.
+
+[5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}]
+
+Package natbib Warning: Citation `bruna2013spectral' on page 6 undefined on inp
+ut line 370.
+
+
+Package natbib Warning: Citation `defferrard2016convolutional' on page 6 undefi
+ned on input line 370.
+
+
+Package natbib Warning: Citation `kipf2016semi' on page 6 undefined on input li
+ne 370.
+
+
+Package natbib Warning: Citation `jin2023spatio' on page 6 undefined on input l
+ine 381.
+
+
+Package natbib Warning: Citation `corradini2024systematic' on page 6 undefined 
+on input line 381.
+
+
+Package natbib Warning: Citation `li2017diffusion' on page 6 undefined on input
+ line 410.
+
+
+Package natbib Warning: Citation `wu2019graph' on page 6 undefined on input lin
+e 415.
+
+
+Package natbib Warning: Citation `wu2020connecting' on page 6 undefined on inpu
+t line 417.
+
+
+Package natbib Warning: Citation `guo2021learning' on page 6 undefined on input
+ line 426.
+
+
+Package natbib Warning: Citation `lan2022dstagnn' on page 6 undefined on input 
+line 428.
+
+
+Package natbib Warning: Citation `ye2022learning' on page 6 undefined on input 
+line 432.
+
+[6]
+
+Package natbib Warning: Citation `liu2022scinet' on page 7 undefined on input l
+ine 443.
+
+
+Package natbib Warning: Citation `wu2021autoformer' on page 7 undefined on inpu
+t line 446.
+
+
+Package natbib Warning: Citation `shao2022decoupled' on page 7 undefined on inp
+ut line 450.
+
+
+Package natbib Warning: Citation `cao2020spectral' on page 7 undefined on input
+ line 455.
+
+
+Package natbib Warning: Citation `zhou2022fedformer' on page 7 undefined on inp
+ut line 459.
+
+
+Package natbib Warning: Citation `fang2023spatio' on page 7 undefined on input 
+line 464.
+
+[7]
+
+Package natbib Warning: Citation `li2017diffusion' on page 8 undefined on input
+ line 475.
+
+
+Package natbib Warning: Citation `zhao2019t' on page 8 undefined on input line 
+482.
+
+
+Package natbib Warning: Citation `yu2017spatio' on page 8 undefined on input li
+ne 487.
+
+
+Package natbib Warning: Citation `liu2024spatial' on page 8 undefined on input 
+line 493.
+
+[8]
+
+Package natbib Warning: Citation `daubechies1992ten' on page 9 undefined on inp
+ut line 563.
 
 [9]
-<figs/fig_1.png, id=48, 1144.275pt x 802.49812pt>
-File: figs/fig_1.png Graphic file (type png)
-<use figs/fig_1.png>
-Package pdftex.def Info: figs/fig_1.png  used on input line 658.
-(pdftex.def)             Requested size: 382.19833pt x 268.04565pt.
+
+LaTeX Warning: File `figs/fig_1.png' not found on input line 658.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+! Package pdftex.def Error: File `figs/fig_1.png' not found: using draft settin
+g.
 
-[10] [11 <./figs/fig_1.png (PNG copy)>] [12] [13] [14] [15]
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 ...ics[width=0.98\textwidth]{figs/fig_1.png}
+                                                  
+? 
+[10] [11] [12] [13] [14] [15] [16]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -666,27 +1014,24 @@ l.1113
 l.1113 
        
 ? 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+[17]
 Overfull \hbox (10.05734pt too wide) in paragraph at lines 1156--1179
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[16] [17]
+[18]
 Overfull \hbox (16.95325pt too wide) in paragraph at lines 1227--1232
 []\OT1/cmr/bx/n/12 PeMS08\OT1/cmr/m/n/12 : This dataset con-tains trans-porta-t
 ion data from San Bernardino.
  []
 
-[18]
+
 Overfull \hbox (37.07376pt too wide) in paragraph at lines 1273--1300
  [][] 
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Overfull \hbox (0.5185pt too wide) in paragraph at lines 1304--1309
@@ -701,7 +1046,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 1355--1356
 
  []
 
-[20] [21] [22] [23] [24]
+[20]
+
+Package natbib Warning: Citation `box1976analysis' on page 21 undefined on inpu
+t line 1361.
+
+
+Package natbib Warning: Citation `frigola2015bayesian' on page 21 undefined on 
+input line 1367.
+
+
+Package natbib Warning: Citation `zhang2003time' on page 21 undefined on input 
+line 1372.
+
+
+Package natbib Warning: Citation `cho2014learning' on page 21 undefined on inpu
+t line 1378.
+
+
+Package natbib Warning: Citation `lai2018modeling' on page 21 undefined on inpu
+t line 1383.
+
+
+Package natbib Warning: Citation `shih2019temporal' on page 21 undefined on inp
+ut line 1387.
+
+
+Package natbib Warning: Citation `wu2020connecting' on page 21 undefined on inp
+ut line 1393.
+
+
+Package natbib Warning: Citation `zhou2021informer' on page 21 undefined on inp
+ut line 1398.
+
+
+Package natbib Warning: Citation `wu2021autoformer' on page 21 undefined on inp
+ut line 1403.
+
+
+Package natbib Warning: Citation `shang2021discrete' on page 21 undefined on in
+put line 1407.
+
+
+Package natbib Warning: Citation `ye2022learning' on page 21 undefined on input
+ line 1413.
+
+[21]
+
+Package natbib Warning: Citation `liu2022scinet' on page 22 undefined on input 
+line 1417.
+
+
+Package natbib Warning: Citation `zivot2006vector' on page 22 undefined on inpu
+t line 1427.
+
+
+Package natbib Warning: Citation `drucker1996support' on page 22 undefined on i
+nput line 1432.
+
+
+Package natbib Warning: Citation `graves2012long' on page 22 undefined on input
+ line 1437.
+
+
+Package natbib Warning: Citation `li2017diffusion' on page 22 undefined on inpu
+t line 1441.
+
+
+Package natbib Warning: Citation `yu2017spatio' on page 22 undefined on input l
+ine 1445.
+
+
+Package natbib Warning: Citation `guo2019attention' on page 22 undefined on inp
+ut line 1449.
+
+
+Package natbib Warning: Citation `wu2019graph' on page 22 undefined on input li
+ne 1453.
+
+
+Package natbib Warning: Citation `song2020spatial' on page 22 undefined on inpu
+t line 1458.
+
+
+Package natbib Warning: Citation `lan2022dstagnn' on page 22 undefined on input
+ line 1463.
+
+
+Package natbib Warning: Citation `shao2022decoupled' on page 22 undefined on in
+put line 1469.
+
+
+Package natbib Warning: Citation `fang2023spatio' on page 22 undefined on input
+ line 1474.
+
+[22]
+
+Package natbib Warning: Citation `liu2024spatial' on page 23 undefined on input
+ line 1480.
+
+[23] [24]
 Overfull \hbox (471.94337pt too wide) in paragraph at lines 1584--1785
  [] 
  []
@@ -715,103 +1159,161 @@ Overfull \hbox (411.43025pt too wide) in paragraph at lines 1801--1876
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [25]
-<figs/fig_1_polylines/Model Comparison on PeMS04 (MAE).png, id=109, 1438.173pt 
-x 860.013pt>
-File: figs/fig_1_polylines/Model Comparison on PeMS04 (MAE).png Graphic file (t
-ype png)
-<use figs/fig_1_polylines/Model Comparison on PeMS04 (MAE).png>
-Package pdftex.def Info: figs/fig_1_polylines/Model Comparison on PeMS04 (MAE).
-png  used on input line 1910.
-(pdftex.def)             Requested size: 122.26527pt x 73.10669pt.
+
+LaTeX Warning: File `figs/fig_1_polylines/Model Comparison on PeMS04 (MAE).png'
+ not found on input line 1910.
+
+
+! Package pdftex.def Error: File `figs/fig_1_polylines/Model Comparison on PeMS
+04 (MAE).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1910 ...es/Model Comparison on PeMS04 (MAE).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1910--1912
 [][]
  []
 
-<figs/fig_1_polylines/Model Comparison on PeMS04 (RMSE).png, id=111, 1438.173pt
- x 860.013pt>
-File: figs/fig_1_polylines/Model Comparison on PeMS04 (RMSE).png Graphic file (
-type png)
-<use figs/fig_1_polylines/Model Comparison on PeMS04 (RMSE).png>
-Package pdftex.def Info: figs/fig_1_polylines/Model Comparison on PeMS04 (RMSE)
-.png  used on input line 1915.
-(pdftex.def)             Requested size: 122.26527pt x 73.10669pt.
+
+LaTeX Warning: File `figs/fig_1_polylines/Model Comparison on PeMS04 (RMSE).png
+' not found on input line 1915.
+
+
+! Package pdftex.def Error: File `figs/fig_1_polylines/Model Comparison on PeMS
+04 (RMSE).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1915 ...s/Model Comparison on PeMS04 (RMSE).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1915--1917
 [][]
  []
 
-<figs/fig_1_polylines/Model Comparison on PeMS04 (MAPE).png, id=112, 1438.173pt
- x 860.013pt>
-File: figs/fig_1_polylines/Model Comparison on PeMS04 (MAPE).png Graphic file (
-type png)
-<use figs/fig_1_polylines/Model Comparison on PeMS04 (MAPE).png>
-Package pdftex.def Info: figs/fig_1_polylines/Model Comparison on PeMS04 (MAPE)
-.png  used on input line 1920.
-(pdftex.def)             Requested size: 122.26527pt x 73.10669pt.
+
+LaTeX Warning: File `figs/fig_1_polylines/Model Comparison on PeMS04 (MAPE).png
+' not found on input line 1920.
+
+
+! Package pdftex.def Error: File `figs/fig_1_polylines/Model Comparison on PeMS
+04 (MAPE).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1920 ...s/Model Comparison on PeMS04 (MAPE).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1920--1922
 [][]
  []
 
-<figs/fig_1_polylines/Model Comparison on PeMS08 (MAE).png, id=113, 1438.173pt 
-x 860.013pt>
-File: figs/fig_1_polylines/Model Comparison on PeMS08 (MAE).png Graphic file (t
-ype png)
-<use figs/fig_1_polylines/Model Comparison on PeMS08 (MAE).png>
-Package pdftex.def Info: figs/fig_1_polylines/Model Comparison on PeMS08 (MAE).
-png  used on input line 1925.
-(pdftex.def)             Requested size: 122.26527pt x 73.10669pt.
+
+LaTeX Warning: File `figs/fig_1_polylines/Model Comparison on PeMS08 (MAE).png'
+ not found on input line 1925.
+
+
+! Package pdftex.def Error: File `figs/fig_1_polylines/Model Comparison on PeMS
+08 (MAE).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1925 ...es/Model Comparison on PeMS08 (MAE).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1925--1927
 [][]
  []
 
-<figs/fig_1_polylines/Model Comparison on PeMS08 (RMSE).png, id=114, 1438.173pt
- x 860.013pt>
-File: figs/fig_1_polylines/Model Comparison on PeMS08 (RMSE).png Graphic file (
-type png)
-<use figs/fig_1_polylines/Model Comparison on PeMS08 (RMSE).png>
-Package pdftex.def Info: figs/fig_1_polylines/Model Comparison on PeMS08 (RMSE)
-.png  used on input line 1930.
-(pdftex.def)             Requested size: 122.26527pt x 73.10669pt.
+
+LaTeX Warning: File `figs/fig_1_polylines/Model Comparison on PeMS08 (RMSE).png
+' not found on input line 1930.
+
+
+! Package pdftex.def Error: File `figs/fig_1_polylines/Model Comparison on PeMS
+08 (RMSE).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1930 ...s/Model Comparison on PeMS08 (RMSE).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1930--1932
 [][]
  []
 
-<figs/fig_1_polylines/Model Comparison on PeMS08 (MAPE).png, id=115, 1438.173pt
- x 860.013pt>
-File: figs/fig_1_polylines/Model Comparison on PeMS08 (MAPE).png Graphic file (
-type png)
-<use figs/fig_1_polylines/Model Comparison on PeMS08 (MAPE).png>
-Package pdftex.def Info: figs/fig_1_polylines/Model Comparison on PeMS08 (MAPE)
-.png  used on input line 1935.
-(pdftex.def)             Requested size: 122.26527pt x 73.10669pt.
+
+LaTeX Warning: File `figs/fig_1_polylines/Model Comparison on PeMS08 (MAPE).png
+' not found on input line 1935.
+
+
+! Package pdftex.def Error: File `figs/fig_1_polylines/Model Comparison on PeMS
+08 (MAPE).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1935 ...s/Model Comparison on PeMS08 (MAPE).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1935--1937
 [][]
  []
 
-<figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.png, id=116, 1438.173pt x 860.013p
-t>
-File: figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.png Graphic file (type png)
-<use figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.png>
-Package pdftex.def Info: figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.png  used 
-on input line 1959.
-(pdftex.def)             Requested size: 166.72333pt x 99.69333pt.
+
+LaTeX Warning: File `figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.png' not found
+ on input line 1959.
+
+
+! Package pdftex.def Error: File `figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.p
+ng' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1959 ..._2+3/PEMS04/fig_2_curves_04 4-02.22.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1959--1961
 [][]
  []
 
-<figs/fig_2+3/PEMS08/fig_2_curves_08 89-08.29.png, id=117, 1438.173pt x 860.013
-pt>
-File: figs/fig_2+3/PEMS08/fig_2_curves_08 89-08.29.png Graphic file (type png)
-<use figs/fig_2+3/PEMS08/fig_2_curves_08 89-08.29.png>
-Package pdftex.def Info: figs/fig_2+3/PEMS08/fig_2_curves_08 89-08.29.png  used
- on input line 1964.
-(pdftex.def)             Requested size: 166.72333pt x 99.69333pt.
+
+LaTeX Warning: File `figs/fig_2+3/PEMS08/fig_2_curves_08 89-08.29.png' not foun
+d on input line 1964.
+
+
+! Package pdftex.def Error: File `figs/fig_2+3/PEMS08/fig_2_curves_08 89-08.29.
+png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1964 ...2+3/PEMS08/fig_2_curves_08 89-08.29.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1964--1966
 [][]
@@ -823,141 +1325,208 @@ Overfull \hbox (10.54755pt too wide) in paragraph at lines 1944--1971
 ts dur-ing rush hours on the PeMS04/08
  []
 
+[26
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/fig_2+3/PEMS04/fig_3_regression_04.png, id=118, 1198.9593pt x 772.5663pt>
+]
 
-File: figs/fig_2+3/PEMS04/fig_3_regression_04.png Graphic file (type png)
-<use figs/fig_2+3/PEMS04/fig_3_regression_04.png>
-Package pdftex.def Info: figs/fig_2+3/PEMS04/fig_3_regression_04.png  used on i
-nput line 1988.
-(pdftex.def)             Requested size: 166.72333pt x 107.42766pt.
+LaTeX Warning: File `figs/fig_2+3/PEMS04/fig_3_regression_04.png' not found on 
+input line 1988.
+
+
+! Package pdftex.def Error: File `figs/fig_2+3/PEMS04/fig_3_regression_04.png' 
+not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1988 .../fig_2+3/PEMS04/fig_3_regression_04.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1988--1990
 [][]
  []
 
-<figs/fig_2+3/PEMS04/fig_3_regression_04 (3375).png, id=119, 1198.9593pt x 772.
-5663pt>
-File: figs/fig_2+3/PEMS04/fig_3_regression_04 (3375).png Graphic file (type png
-)
-<use figs/fig_2+3/PEMS04/fig_3_regression_04 (3375).png>
-Package pdftex.def Info: figs/fig_2+3/PEMS04/fig_3_regression_04 (3375).png  us
-ed on input line 1993.
-(pdftex.def)             Requested size: 166.72333pt x 107.42766pt.
+
+LaTeX Warning: File `figs/fig_2+3/PEMS04/fig_3_regression_04 (3375).png' not fo
+und on input line 1993.
+
+
+! Package pdftex.def Error: File `figs/fig_2+3/PEMS04/fig_3_regression_04 (3375
+).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1993 ...3/PEMS04/fig_3_regression_04 (3375).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1993--1995
 [][]
  []
 
-<figs/fig_2+3/PEMS08/fig_3_regression_08.png, id=120, 1198.9593pt x 772.5663pt>
 
-File: figs/fig_2+3/PEMS08/fig_3_regression_08.png Graphic file (type png)
-<use figs/fig_2+3/PEMS08/fig_3_regression_08.png>
-Package pdftex.def Info: figs/fig_2+3/PEMS08/fig_3_regression_08.png  used on i
-nput line 1998.
-(pdftex.def)             Requested size: 166.72333pt x 107.42766pt.
+LaTeX Warning: File `figs/fig_2+3/PEMS08/fig_3_regression_08.png' not found on 
+input line 1998.
+
+
+! Package pdftex.def Error: File `figs/fig_2+3/PEMS08/fig_3_regression_08.png' 
+not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1998 .../fig_2+3/PEMS08/fig_3_regression_08.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1998--2000
 [][]
  []
 
-<figs/fig_2+3/PEMS08/fig_3_regression_08 (3548).png, id=121, 1198.9593pt x 772.
-5663pt>
-File: figs/fig_2+3/PEMS08/fig_3_regression_08 (3548).png Graphic file (type png
-)
-<use figs/fig_2+3/PEMS08/fig_3_regression_08 (3548).png>
-Package pdftex.def Info: figs/fig_2+3/PEMS08/fig_3_regression_08 (3548).png  us
-ed on input line 2003.
-(pdftex.def)             Requested size: 166.72333pt x 107.42766pt.
+
+LaTeX Warning: File `figs/fig_2+3/PEMS08/fig_3_regression_08 (3548).png' not fo
+und on input line 2003.
+
+
+! Package pdftex.def Error: File `figs/fig_2+3/PEMS08/fig_3_regression_08 (3548
+).png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2003 ...3/PEMS08/fig_3_regression_08 (3548).png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2003--2005
 [][]
  []
 
-[26
-
-
- <./figs/fig_1_polylines/Model Comparison on PeMS04 (MAE).png> <./figs/fig_1_po
-lylines/Model Comparison on PeMS04 (RMSE).png> <./figs/fig_1_polylines/Model Co
-mparison on PeMS04 (MAPE).png> <./figs/fig_1_polylines/Model Comparison on PeMS
-08 (MAE).png> <./figs/fig_1_polylines/Model Comparison on PeMS08 (RMSE).png> <.
-/figs/fig_1_polylines/Model Comparison on PeMS08 (MAPE).png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/fig_4_As/PEMS08/fig_4_As_08 08.20 8:00.png, id=131, 950.3505pt x 859.2903
-pt>
-File: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 8:00.png Graphic file (type png)
-<use figs/fig_4_As/PEMS08/fig_4_As_08 08.20 8:00.png>
-Package pdftex.def Info: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 8:00.png  used 
-on input line 2061.
-(pdftex.def)             Requested size: 166.72333pt x 150.74518pt.
+
+LaTeX Warning: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 8:00.png' not found
+ on input line 2061.
+
+
+! Package pdftex.def Error: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 8:00.p
+ng' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2061 ..._4_As/PEMS08/fig_4_As_08 08.20 8:00.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2061--2063
 [][]
  []
 
-<figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.png, id=132, 950.3505pt x 859.290
-3pt>
-File: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.png Graphic file (type png)
-<use figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.png>
-Package pdftex.def Info: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.png  used
- on input line 2065.
-(pdftex.def)             Requested size: 166.72333pt x 150.74518pt.
+
+LaTeX Warning: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.png' not foun
+d on input line 2065.
+
+
+! Package pdftex.def Error: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.
+png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2065 ...4_As/PEMS08/fig_4_As_08 08.20 12:00.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2065--2067
 [][]
  []
 
-<figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-9:00].png, id=133, 950.3505pt x 8
-59.2903pt>
-File: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-9:00].png Graphic file (type
- png)
-<use figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-9:00].png>
-Package pdftex.def Info: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-9:00].png
-  used on input line 2070.
-(pdftex.def)             Requested size: 85.21313pt x 77.04433pt.
+
+LaTeX Warning: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-9:00].png' no
+t found on input line 2070.
+
+
+! Package pdftex.def Error: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-
+9:00].png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2070 ...EMS08/fig_4_As_08 08.20 [8:00-9:00].png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2070--2072
 [][]
  []
 
-<figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-10:00].png, id=134, 950.3505pt x 
-859.2903pt>
-File: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-10:00].png Graphic file (typ
-e png)
-<use figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-10:00].png>
-Package pdftex.def Info: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-10:00].pn
-g  used on input line 2074.
-(pdftex.def)             Requested size: 85.21313pt x 77.04433pt.
+
+LaTeX Warning: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-10:00].png' n
+ot found on input line 2074.
+
+
+! Package pdftex.def Error: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-
+10:00].png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2074 ...MS08/fig_4_As_08 08.20 [8:00-10:00].png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2074--2076
 [][]
  []
 
-<figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-11:00].png, id=135, 950.3505pt x 
-859.2903pt>
-File: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-11:00].png Graphic file (typ
-e png)
-<use figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-11:00].png>
-Package pdftex.def Info: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-11:00].pn
-g  used on input line 2078.
-(pdftex.def)             Requested size: 85.21313pt x 77.04433pt.
+
+LaTeX Warning: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-11:00].png' n
+ot found on input line 2078.
+
+
+! Package pdftex.def Error: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-
+11:00].png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2078 ...MS08/fig_4_As_08 08.20 [8:00-11:00].png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2078--2080
 [][]
  []
 
-<figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-12:00].png, id=136, 950.3505pt x 
-859.2903pt>
-File: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-12:00].png Graphic file (typ
-e png)
-<use figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-12:00].png>
-Package pdftex.def Info: figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-12:00].pn
-g  used on input line 2082.
-(pdftex.def)             Requested size: 85.21313pt x 77.04433pt.
+
+LaTeX Warning: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-12:00].png' n
+ot found on input line 2082.
+
+
+! Package pdftex.def Error: File `figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-
+12:00].png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2082 ...MS08/fig_4_As_08 08.20 [8:00-12:00].png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2082--2084
 [][]
@@ -966,135 +1535,183 @@ Underfull \hbox (badness 10000) in paragraph at lines 2082--2084
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27 <./figs/fig_2+3/PEMS04/fig_2_curves_04 4-02.22.png> <./figs/fig_2+3/PEMS08/
-fig_2_curves_08 89-08.29.png>]
+[27]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: File `figs/fig_5_ablation/Ablation-PEMS04-MAE.png' not found on 
+input line 2182.
 
-<figs/fig_5_ablation/Ablation-PEMS04-MAE.png, id=142, 1438.173pt x 849.1725pt>
-File: figs/fig_5_ablation/Ablation-PEMS04-MAE.png Graphic file (type png)
-<use figs/fig_5_ablation/Ablation-PEMS04-MAE.png>
-Package pdftex.def Info: figs/fig_5_ablation/Ablation-PEMS04-MAE.png  used on i
-nput line 2182.
-(pdftex.def)             Requested size: 122.26527pt x 72.18518pt.
+
+! Package pdftex.def Error: File `figs/fig_5_ablation/Ablation-PEMS04-MAE.png' 
+not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2182 .../fig_5_ablation/Ablation-PEMS04-MAE.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2182--2184
 [][]
  []
 
-<figs/fig_5_ablation/Ablation-PEMS04-RMSE.png, id=143, 1438.173pt x 849.1725pt>
 
-File: figs/fig_5_ablation/Ablation-PEMS04-RMSE.png Graphic file (type png)
-<use figs/fig_5_ablation/Ablation-PEMS04-RMSE.png>
-Package pdftex.def Info: figs/fig_5_ablation/Ablation-PEMS04-RMSE.png  used on 
-input line 2187.
-(pdftex.def)             Requested size: 122.26527pt x 72.18518pt.
+LaTeX Warning: File `figs/fig_5_ablation/Ablation-PEMS04-RMSE.png' not found on
+ input line 2187.
+
+
+! Package pdftex.def Error: File `figs/fig_5_ablation/Ablation-PEMS04-RMSE.png'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2187 ...fig_5_ablation/Ablation-PEMS04-RMSE.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2187--2189
 [][]
  []
 
-<figs/fig_5_ablation/Ablation-PEMS04-MAPE.png, id=144, 1438.173pt x 849.1725pt>
 
-File: figs/fig_5_ablation/Ablation-PEMS04-MAPE.png Graphic file (type png)
-<use figs/fig_5_ablation/Ablation-PEMS04-MAPE.png>
-Package pdftex.def Info: figs/fig_5_ablation/Ablation-PEMS04-MAPE.png  used on 
-input line 2192.
-(pdftex.def)             Requested size: 122.26527pt x 72.18518pt.
+LaTeX Warning: File `figs/fig_5_ablation/Ablation-PEMS04-MAPE.png' not found on
+ input line 2192.
+
+
+! Package pdftex.def Error: File `figs/fig_5_ablation/Ablation-PEMS04-MAPE.png'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2192 ...fig_5_ablation/Ablation-PEMS04-MAPE.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2192--2194
 [][]
  []
 
-<figs/fig_5_ablation/Ablation-PEMS08-MAE.png, id=145, 1438.173pt x 849.1725pt>
-File: figs/fig_5_ablation/Ablation-PEMS08-MAE.png Graphic file (type png)
-<use figs/fig_5_ablation/Ablation-PEMS08-MAE.png>
-Package pdftex.def Info: figs/fig_5_ablation/Ablation-PEMS08-MAE.png  used on i
-nput line 2197.
-(pdftex.def)             Requested size: 122.26527pt x 72.18518pt.
+
+LaTeX Warning: File `figs/fig_5_ablation/Ablation-PEMS08-MAE.png' not found on 
+input line 2197.
+
+
+! Package pdftex.def Error: File `figs/fig_5_ablation/Ablation-PEMS08-MAE.png' 
+not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2197 .../fig_5_ablation/Ablation-PEMS08-MAE.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2197--2199
 [][]
  []
 
-<figs/fig_5_ablation/Ablation-PEMS08-RMSE.png, id=146, 1438.173pt x 849.1725pt>
 
-File: figs/fig_5_ablation/Ablation-PEMS08-RMSE.png Graphic file (type png)
-<use figs/fig_5_ablation/Ablation-PEMS08-RMSE.png>
-Package pdftex.def Info: figs/fig_5_ablation/Ablation-PEMS08-RMSE.png  used on 
-input line 2202.
-(pdftex.def)             Requested size: 122.26527pt x 72.18518pt.
+LaTeX Warning: File `figs/fig_5_ablation/Ablation-PEMS08-RMSE.png' not found on
+ input line 2202.
+
+
+! Package pdftex.def Error: File `figs/fig_5_ablation/Ablation-PEMS08-RMSE.png'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2202 ...fig_5_ablation/Ablation-PEMS08-RMSE.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2202--2204
 [][]
  []
 
-<figs/fig_5_ablation/Ablation-PEMS08-MAPE.png, id=147, 1438.173pt x 849.1725pt>
 
-File: figs/fig_5_ablation/Ablation-PEMS08-MAPE.png Graphic file (type png)
-<use figs/fig_5_ablation/Ablation-PEMS08-MAPE.png>
-Package pdftex.def Info: figs/fig_5_ablation/Ablation-PEMS08-MAPE.png  used on 
-input line 2207.
-(pdftex.def)             Requested size: 122.26527pt x 72.18518pt.
+LaTeX Warning: File `figs/fig_5_ablation/Ablation-PEMS08-MAPE.png' not found on
+ input line 2207.
+
+
+! Package pdftex.def Error: File `figs/fig_5_ablation/Ablation-PEMS08-MAPE.png'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2207 ...fig_5_ablation/Ablation-PEMS08-MAPE.png}
+                                                  
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2207--2209
 [][]
  []
 
+[28]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <./figs/fig_2+3/PEMS04/fig_3_regression_04.png> <./figs/fig_2+3/PEMS04/fig_
-3_regression_04 (3375).png> <./figs/fig_2+3/PEMS08/fig_3_regression_08.png> <./
-figs/fig_2+3/PEMS08/fig_3_regression_08 (3548).png>] [29 <./figs/fig_4_As/PEMS0
-8/fig_4_As_08 08.20 8:00.png> <./figs/fig_4_As/PEMS08/fig_4_As_08 08.20 12:00.p
-ng> <./figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-9:00].png> <./figs/fig_4_As
-/PEMS08/fig_4_As_08 08.20 [8:00-10:00].png> <./figs/fig_4_As/PEMS08/fig_4_As_08
- 08.20 [8:00-11:00].png> <./figs/fig_4_As/PEMS08/fig_4_As_08 08.20 [8:00-12:00]
-.png>] (./elsarticle-template-num.bbl [30 <./figs/fig_5_ablation/Ablation-PEMS0
-4-MAE.png> <./figs/fig_5_ablation/Ablation-PEMS04-RMSE.png> <./figs/fig_5_ablat
-ion/Ablation-PEMS04-MAPE.png> <./figs/fig_5_ablation/Ablation-PEMS08-MAE.png> <
-./figs/fig_5_ablation/Ablation-PEMS08-RMSE.png> <./figs/fig_5_ablation/Ablation
--PEMS08-MAPE.png>] [31] [32] [33] [34] [35]) [36]
-(./elsarticle-template-num.aux) ) 
+(./elsarticle-template-num.bbl [29] [30] [31] [32] [33] [34])
+
+Package natbib Warning: There were undefined citations.
+
+[35] [36] [37] [38] (./elsarticle-template-num.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 9521 strings out of 476025
- 178692 string characters out of 5790023
+ 10181 strings out of 476025
+ 215989 string characters out of 5790023
  1942388 words of memory out of 5000000
- 29822 multiletter control sequences out of 15000+600000
- 525480 words of font info for 83 fonts, out of 8000000 for 9000
+ 30446 multiletter control sequences out of 15000+600000
+ 525481 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,15n,76p,336b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/wasy-type1/wasy10.pfb>
-Output written on elsarticle-template-num.pdf (36 pages, 5453789 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2023/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-di
+st/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2023/texmf-dist
+/fonts/type1/public/wasy-type1/wasy10.pfb>
+Output written on elsarticle-template-num.pdf (38 pages, 423511 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
+ 260 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
