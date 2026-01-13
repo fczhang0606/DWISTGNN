@@ -855,7 +855,7 @@ The dimension $d$ is usually far less than $N$,
 helpful to reduce the computational cost.  % Es
 The adjacency matrix of initial specific graph is inferred: 
 \begin{equation}
-  A_{s} = SoftMax(ReLU(E_{s} \cdot E_{s}^{'}))
+  A_{s} = SoftMax(ReLU(E_{s}^{'} \cdot E_{s}))
 \end{equation}
 $E_{s}^{'}$ is the transpose of $E_{s}$.
 ReLU blocks the weak connections 
@@ -866,7 +866,7 @@ The gradual changes of the graph evolution
 can be associatied with the node-level inputs 
 $X_{t} \in R^{D \times N}$. Similarly, 
 \begin{equation}
-  A_{d} = SoftMax(ReLU(X_{t} \cdot X_{t}^{'}))
+  A_{d} = SoftMax(ReLU(X_{t}^{'} \cdot X_{t}))
 \end{equation}  % Ad
 
 
