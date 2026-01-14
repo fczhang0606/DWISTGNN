@@ -2120,15 +2120,20 @@ removing one key component at a time:
       To ensure the training stability, 
       the original input interfaces of all components 
       are fed with the same raw series.
-\item \textbf{w/o DGC}: 
+\item \textbf{w/o DYN+COM}: 
       This variant replaces the graph structure 
       constructed by the DGC module 
       with the initial specific graph 
       to evaluate the capability of capturing graph dynamicity.
-\item \textbf{w/o STD}: 
+\item \textbf{w/o STD+COM}: 
       This variant replaces the graph structure 
       constructed by the DGC module 
-      with the gradual changing graph and compensatory graph 
+      with the gradual changing graph 
+      to evaluate the capability of capturing graph dynamicity.
+\item \textbf{w/o STD+DYN}: 
+      This variant replaces the graph structure 
+      constructed by the DGC module 
+      with the compensatory graph 
       to evaluate the capability of capturing graph dynamicity.
 \item \textbf{w/o GCN}: 
       This variant eliminates the entire Graph Convolutional Network part, 
