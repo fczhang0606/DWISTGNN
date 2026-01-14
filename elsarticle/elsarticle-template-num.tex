@@ -2134,7 +2134,12 @@ removing one key component at a time:
       This variant eliminates the entire Graph Convolutional Network part, 
       which captures spatial dependencies among nodes 
       to validate its contribution to model performance.
-\item \textbf{w/o FI}: 
+\item \textbf{w/o FI-1}: 
+      This variant omits the FI module, 
+      which models the deep interactions between different frequency components.
+      Instead, the outputs from the previous modules only 
+      undergo a single round of interaction.
+\item \textbf{w/o FI-2}: 
       This variant omits the FI module, 
       which models the deep interactions between different frequency components.
       Instead, the outputs from the previous modules are directly 
