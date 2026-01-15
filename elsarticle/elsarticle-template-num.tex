@@ -254,14 +254,14 @@ the interaction between the modules is insufficient.  % factorized architecture
 % 1.4: methods
 To tackle the above issues, this work introduces a model named 
 Dynamic Spatio-Temporal Graph Neural Network with Wavelet Interaction (DWISTGNN).  % DWISTGNN
-The Dynamic Graph Construction (DGC) module 
+To solve the limitation of insufficient expressive power 
+of static graph methods, 
+the Dynamic Graph Construction (DGC) module 
 learns the evolving graph structure at every timestamp 
 by integrating the learnable embeddings 
-to describe the initial specific graph structure and 
+to describe the initial specific graph and 
 the dynamic node features 
-to reflect the gradual changes of the graph evolution, 
-which solves the limitation of insufficient expressive power 
-of static graph methods.  % DGC
+to reflect the gradual changes of the graph evolution.  % DGC
 The Data Transform (DT) module is introduced 
 to first decompose the time series into multiple frequency components via DWT 
 to reveal distinct characteristics of different bands 
