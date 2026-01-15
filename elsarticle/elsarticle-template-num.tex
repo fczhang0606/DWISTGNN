@@ -2198,16 +2198,25 @@ removing one key component at a time:
 
 \textbf{Table.6} shows the results from the ablation study.
 On both datasets, full DWISTGNN model outperforms all its variants.
-The w/o DGC variant exhibits the greatest drop in accuracy, 
-indicating the necessity of capturing dynamic spatial dependencies over static graphs.
-The w/o GCN variant also deteriorates heavily, 
-proving the importance of modeling variates' spatial relations.
+The results of w/o DWT variant proves the function of wavelet transform.
+
+The w/o GCN variant exhibits the greatest drop in accuracy among four graph variants, 
+indicating the necessity of capturing spatial dependencies.
+The other three graph variants all deteriorates, 
+demonstrating the stability and effectiveness of 
+the initial static graph, the gradual changing graph and the compensatory graph.
+The smaller ablation error 
+from the w/o STD+COM variant compared with the w/o DYN+COM variant 
+indicates that the contribution of gradual changing graph is 
+greater than the initial static graph.
+
 The w/o FI variant and the w/o DWT variant 
 show moderate performance decreases.
 Better performance of the w/o FI variant is observed 
 when more frequency components are considered and interacted.
 Similarly, the w/o DWT variant performs better 
 when more wavelet patterns are extracted and utilized.
+
 Overall, this study validates that 
 each module is integral to the performance of DWISTGNN.
 \begin{figure}[h]  % [htbp]
