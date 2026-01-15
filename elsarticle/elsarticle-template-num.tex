@@ -931,11 +931,6 @@ by integrating the above three matrices.
 
 Temporal Convolution (TC) aims to 
 extract intra temporal patterns.  % TC
-As shown in \textbf{Fig.2},  % 
-four TC modules labeled as TC1, TC2, TC3 and TC4 are embedded into the FI module 
-to jointly capture the global representation.  % 4*TC -- FI
-Different labeled TC modules have different inputs and outputs, 
-while all of them share the same structure.
 TC is composed of two convolutional layers with different kernels: 
 \begin{equation}
   \begin{aligned}
@@ -944,6 +939,11 @@ TC is composed of two convolutional layers with different kernels:
 \end{equation}
 $H_{in}$ and $H_{out}$ represents the interfaces of TC 
 and $\sigma$ is the activation function.  % TC = two layers of CNN
+As shown in \textbf{Fig.2},  % 
+four TC modules labeled as TC1, TC2, TC3 and TC4 are embedded into the FI module 
+to jointly capture the global representation.  % 4*TC -- FI
+Different labeled TC modules have different inputs and outputs, 
+while all of them share the same structure.
 
 
 \subsubsection{Frequency Spatial Convolution}
