@@ -270,13 +270,12 @@ to reveal distinct characteristics of different bands
 and then encode the transformation results with time position embeddings.
 The lower bands represent slower-varying smoothing trends, 
 while the higher bands represent faster-varying drastic fluctuations.  % DT
-Every input component of Frequency Interaction (FI) module 
+To extract deeper spatio-temporal features 
+compared with the traditional architecture methods, 
+every input component of Frequency Interaction (FI) module 
 absorbs other component's information and 
 all the processed components are then adaptively fused 
-to acquire the representation for prediction.
-This interaction between different frequency components 
-extracts deeper spatio-temporal features 
-compared with the traditional architecture methods.  % FI
+to acquire the representation for prediction.  % FI
 % If there is N components, the FI module 
 % will generate an interaction matrix $A_{mutal} \in R^{N \times N}$.
 % The noise of the signal can be always filtered out during the high frequency processing part.
