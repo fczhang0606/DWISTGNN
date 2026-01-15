@@ -288,13 +288,13 @@ class IDGCN(nn.Module) :
 
         xl_1_t  = self.conv3(xl_1)              # 夹杂了高频成分的，时间卷积
         xl_1_ts = self.dgcn(xl_1_t, Al)         # 夹杂了高频成分的，动态空间卷积
-        xl2     = 0.5*xl_1_ts + 0.5*xh_1        # 低频，吸收高频。注意力吸收？
+        xl_2     = 0.5*xl_1_ts + 0.5*xh_1        # 低频，吸收高频。注意力吸收？
 
         xh_1_t  = self.conv4(xh_1)              # 夹杂了低频成分的，时间卷积
         xh_1_ts = self.dgcn(xh_1_t, Ah)         # 夹杂了低频成分的，动态空间卷积
-        xh2     = 0.5*xh_1_ts + 0.5*xl_1        # 高频，吸收低频。注意力吸收？
+        xh_2     = 0.5*xh_1_ts + 0.5*xl_1        # 高频，吸收低频。注意力吸收？
 
-        return (xl2, xh2)
+        return (xl_2, xh_2)
 
 
 
