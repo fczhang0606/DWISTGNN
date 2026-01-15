@@ -262,14 +262,14 @@ by integrating the learnable embeddings
 to describe the initial specific graph and 
 the dynamic node features 
 to reflect the gradual changes of the graph evolution.  % DGC
-The Data Transform (DT) module is introduced 
+To allow for a more detailed extraction 
+of both time and frequency information than previous decomposition methods, 
+the Data Transform (DT) module is introduced 
 to first decompose the time series into multiple frequency components via DWT 
 to reveal distinct characteristics of different bands 
 and then encode the transformation results with time position embeddings.
 The lower bands represent slower-varying smoothing trends, 
-while the higher bands represent faster-varying drastic fluctuations.
-Such a separation allows for a more detailed extraction 
-of both time and frequency information than previous decomposition methods.  % DT
+while the higher bands represent faster-varying drastic fluctuations.  % DT
 Every input component of Frequency Interaction (FI) module 
 absorbs other component's information and 
 all the processed components are then adaptively fused 
