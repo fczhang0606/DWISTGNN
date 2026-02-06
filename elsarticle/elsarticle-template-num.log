@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  6 FEB 2026 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  6 FEB 2026 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,32 +561,9 @@ Package pdftex.def Info: figs/fig_2.png  used on input line 667.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10] [11 <./figs/fig_2.png (PNG copy)>] [12] [13] [14] [15]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
 114.
+
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
@@ -594,78 +571,6 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1114.
 
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.1114 
-       
-? 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -931,10 +836,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 (./elsarticle-template-num.bbl [30] [31] [32] [33] [34] [35] [36]) [37]
 (./elsarticle-template-num.aux) ) 
 Here is how much of TeX's memory you used:
- 9477 strings out of 476025
- 172429 string characters out of 5790023
+ 9478 strings out of 476025
+ 172446 string characters out of 5790023
  1942388 words of memory out of 5000000
- 29789 multiletter control sequences out of 15000+600000
+ 29790 multiletter control sequences out of 15000+600000
  525480 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,15n,76p,336b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -964,7 +869,7 @@ r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/wasy-type1/wasy10.pfb>
-Output written on elsarticle-template-num.pdf (37 pages, 5243902 bytes).
+Output written on elsarticle-template-num.pdf (37 pages, 5243889 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams

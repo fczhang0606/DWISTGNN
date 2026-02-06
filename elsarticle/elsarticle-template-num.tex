@@ -1083,29 +1083,29 @@ is shown in \textbf{Algorithm 1}.
       Sample $X \in R^{B \times D \times N \times W}$, \ 
       $Y \in R^{B \times N \times H}$ from $D$  \;
 
-      $X_{0, l}, X_{0, h}$        \gets \{$X$\} 
+      $X_{0, l}, X_{0, h}$        $\gets$ \{$X$\} 
       \hfill $\triangleright$ Eq.~(3)(5): DWT and IDWT
 
-      $X_{l}, X_{h}$              \gets \{$X_{0, l}, X_{0, h}, E_{time}$\}  \\
+      $X_{l}, X_{h}$              $\gets$ \{$X_{0, l}, X_{0, h}, E_{time}$\}  \\
       \hfill $\triangleright$ Eq.~(6)-(8): Position Embedding
 
-      $A$                         \gets \{$X, E_{s}$\} 
+      $A$                         $\gets$ \{$X, E_{s}$\} 
       \hfill $\triangleright$ Eq.~(9)-(13): Dynamic Graph Construction
 
-      $X_{l}^{(2)}, X_{h}^{(2)}$  \gets \{$X_{l}, X_{h}, A$\}  \\
+      $X_{l}^{(2)}, X_{h}^{(2)}$  $\gets$ \{$X_{l}, X_{h}, A$\}  \\
       \hfill $\triangleright$ Eq.~(14)-(16): Frequency Interaction
 
-      $X_{out}$                   \gets \{$X_{l}^{(2)}, X_{h}^{(2)}$\} 
+      $X_{out}$                   $\gets$ \{$X_{l}^{(2)}, X_{h}^{(2)}$\} 
       \hfill $\triangleright$ Eq.~(17): Adaptive Fusion
 
-      $\widehat{Y}$               \gets \{$X_{out}$\} 
+      $\widehat{Y}$               $\gets$ \{$X_{out}$\} 
       \hfill $\triangleright$ Eq.~(18): Decoder
 
-      $L$                         \gets \{$Y, \widehat{Y}$\} 
+      $L$                         $\gets$ \{$Y, \widehat{Y}$\} 
       \hfill $\triangleright$ Eq.~(19): Loss Function
 
-      $\Theta$                    \gets \{$L, \alpha, \gamma$\} 
-      \hfill $\triangleright$ Eq.~(1): Parameters Update      \\
+      $\Theta$                    $\gets$ \{$L, \alpha, \gamma$\} 
+      \hfill $\triangleright$ Eq.~(1): Parameters Update
 
       $j \leftarrow j + 1$  \;
     }
