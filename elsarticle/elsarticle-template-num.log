@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  6 FEB 2026 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.28)  7 FEB 2026 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -536,17 +536,17 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 <figs/fig_1.png, id=16, 760.34062pt x 545.03625pt>
 File: figs/fig_1.png Graphic file (type png)
 <use figs/fig_1.png>
-Package pdftex.def Info: figs/fig_1.png  used on input line 141.
+Package pdftex.def Info: figs/fig_1.png  used on input line 139.
 (pdftex.def)             Requested size: 351.97273pt x 252.30818pt.
 
-[2 <./figs/fig_1.png (PNG copy)>] [3] [4]
-Overfull \hbox (5.8247pt too wide) in paragraph at lines 303--306
+[2 <./figs/fig_1.png (PNG copy)>] [3] [4{/usr/local/texlive/2023/texmf-dist/fon
+ts/enc/dvips/cm-super/cm-super-ts1.enc}]
+Overfull \hbox (5.8247pt too wide) in paragraph at lines 301--304
 \OT1/cmr/m/n/12 var-i-ous fields. DWIST-GNN achieves ex-traor-di-nary per-for-m
 ance, demon-
  []
 
-[5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-}] [6] [7] [8]
+[5] [6] [7] [8]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -554,7 +554,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figs/fig_2.png, id=49, 1144.275pt x 802.49812pt>
 File: figs/fig_2.png Graphic file (type png)
 <use figs/fig_2.png>
-Package pdftex.def Info: figs/fig_2.png  used on input line 667.
+Package pdftex.def Info: figs/fig_2.png  used on input line 665.
 (pdftex.def)             Requested size: 382.19833pt x 268.04565pt.
 
 
@@ -562,20 +562,20 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10] [11 <./figs/fig_2.png (PNG copy)>] [12] [13] [14] [15]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-114.
+112.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1114.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1112.
 
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (10.05734pt too wide) in paragraph at lines 1157--1180
+Overfull \hbox (10.05734pt too wide) in paragraph at lines 1155--1178
  [][] 
  []
 
@@ -583,18 +583,18 @@ Overfull \hbox (10.05734pt too wide) in paragraph at lines 1157--1180
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16] [17]
-Overfull \hbox (16.95325pt too wide) in paragraph at lines 1228--1233
+Overfull \hbox (16.95325pt too wide) in paragraph at lines 1226--1231
 []\OT1/cmr/bx/n/12 PeMS08\OT1/cmr/m/n/12 : This dataset con-tains trans-porta-t
 ion data from San Bernardino.
  []
 
 [18]
-Overfull \hbox (37.07376pt too wide) in paragraph at lines 1283--1310
+Overfull \hbox (37.07376pt too wide) in paragraph at lines 1281--1308
  [][] 
  []
 
 
-Overfull \hbox (0.5185pt too wide) in paragraph at lines 1314--1319
+Overfull \hbox (0.5185pt too wide) in paragraph at lines 1312--1317
 []\OT1/cmr/m/n/12 Supposing $\OMS/cmsy/m/n/12 f\OML/cmm/m/it/12 y \OT1/cmr/m/n/
 12 = \OML/cmm/m/it/12 y[]; y[]; :::; y[]\OMS/cmsy/m/n/12 g$ \OT1/cmr/m/n/12 de-
 notes the ac-tual val-ues, $\OMS/cmsy/m/n/12 f[] \OT1/cmr/m/n/12 = []\OML/cmm/m
@@ -602,17 +602,17 @@ notes the ac-tual val-ues, $\OMS/cmsy/m/n/12 f[] \OT1/cmr/m/n/12 = []\OML/cmm/m
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 1365--1366
+Underfull \hbox (badness 10000) in paragraph at lines 1363--1364
 
  []
 
 [20] [21] [22] [23] [24]
-Overfull \hbox (471.94337pt too wide) in paragraph at lines 1594--1795
+Overfull \hbox (471.94337pt too wide) in paragraph at lines 1592--1793
  [] 
  []
 
 
-Overfull \hbox (411.43025pt too wide) in paragraph at lines 1811--1886
+Overfull \hbox (411.43025pt too wide) in paragraph at lines 1809--1884
  [] 
  []
 
@@ -623,85 +623,85 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figs/fig_3.1.png, id=109, 1438.173pt x 859.2903pt>
 File: figs/fig_3.1.png Graphic file (type png)
 <use figs/fig_3.1.png>
-Package pdftex.def Info: figs/fig_3.1.png  used on input line 1920.
+Package pdftex.def Info: figs/fig_3.1.png  used on input line 1918.
 (pdftex.def)             Requested size: 122.26527pt x 73.04526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1920--1922
+Underfull \hbox (badness 10000) in paragraph at lines 1918--1920
 [][]
  []
 
 <figs/fig_3.2.png, id=111, 1438.173pt x 859.2903pt>
 File: figs/fig_3.2.png Graphic file (type png)
 <use figs/fig_3.2.png>
-Package pdftex.def Info: figs/fig_3.2.png  used on input line 1925.
+Package pdftex.def Info: figs/fig_3.2.png  used on input line 1923.
 (pdftex.def)             Requested size: 122.26527pt x 73.04526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1925--1927
+Underfull \hbox (badness 10000) in paragraph at lines 1923--1925
 [][]
  []
 
 <figs/fig_3.3.png, id=112, 1438.173pt x 859.2903pt>
 File: figs/fig_3.3.png Graphic file (type png)
 <use figs/fig_3.3.png>
-Package pdftex.def Info: figs/fig_3.3.png  used on input line 1930.
+Package pdftex.def Info: figs/fig_3.3.png  used on input line 1928.
 (pdftex.def)             Requested size: 122.26527pt x 73.04526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1930--1932
+Underfull \hbox (badness 10000) in paragraph at lines 1928--1930
 [][]
  []
 
 <figs/fig_3.4.png, id=113, 1438.173pt x 859.2903pt>
 File: figs/fig_3.4.png Graphic file (type png)
 <use figs/fig_3.4.png>
-Package pdftex.def Info: figs/fig_3.4.png  used on input line 1935.
+Package pdftex.def Info: figs/fig_3.4.png  used on input line 1933.
 (pdftex.def)             Requested size: 122.26527pt x 73.04526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1935--1937
+Underfull \hbox (badness 10000) in paragraph at lines 1933--1935
 [][]
  []
 
 <figs/fig_3.5.png, id=114, 1438.173pt x 859.2903pt>
 File: figs/fig_3.5.png Graphic file (type png)
 <use figs/fig_3.5.png>
-Package pdftex.def Info: figs/fig_3.5.png  used on input line 1940.
+Package pdftex.def Info: figs/fig_3.5.png  used on input line 1938.
 (pdftex.def)             Requested size: 122.26527pt x 73.04526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1940--1942
+Underfull \hbox (badness 10000) in paragraph at lines 1938--1940
 [][]
  []
 
 <figs/fig_3.6.png, id=115, 1438.173pt x 859.2903pt>
 File: figs/fig_3.6.png Graphic file (type png)
 <use figs/fig_3.6.png>
-Package pdftex.def Info: figs/fig_3.6.png  used on input line 1945.
+Package pdftex.def Info: figs/fig_3.6.png  used on input line 1943.
 (pdftex.def)             Requested size: 122.26527pt x 73.04526pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1945--1947
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
 [][]
  []
 
 <figs/fig_4.1.png, id=116, 1438.173pt x 859.2903pt>
 File: figs/fig_4.1.png Graphic file (type png)
 <use figs/fig_4.1.png>
-Package pdftex.def Info: figs/fig_4.1.png  used on input line 1969.
+Package pdftex.def Info: figs/fig_4.1.png  used on input line 1967.
 (pdftex.def)             Requested size: 166.72333pt x 99.60956pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1969--1971
+Underfull \hbox (badness 10000) in paragraph at lines 1967--1969
 [][]
  []
 
 <figs/fig_4.2.png, id=117, 1438.173pt x 859.2903pt>
 File: figs/fig_4.2.png Graphic file (type png)
 <use figs/fig_4.2.png>
-Package pdftex.def Info: figs/fig_4.2.png  used on input line 1974.
+Package pdftex.def Info: figs/fig_4.2.png  used on input line 1972.
 (pdftex.def)             Requested size: 166.72333pt x 99.60956pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1974--1976
+Underfull \hbox (badness 10000) in paragraph at lines 1972--1974
 [][]
  []
 
 
-Overfull \hbox (10.54755pt too wide) in paragraph at lines 1954--1981
+Overfull \hbox (10.54755pt too wide) in paragraph at lines 1952--1979
 []\OT1/cmr/bx/n/12 Fig.4 \OT1/cmr/m/n/12 il-lus-trates the fore-cast-ing re-sul
 ts dur-ing rush hours on the PeMS04/08
  []
@@ -712,40 +712,40 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figs/fig_5.1.png, id=118, 1217.0268pt x 794.97pt>
 File: figs/fig_5.1.png Graphic file (type png)
 <use figs/fig_5.1.png>
-Package pdftex.def Info: figs/fig_5.1.png  used on input line 1998.
+Package pdftex.def Info: figs/fig_5.1.png  used on input line 1996.
 (pdftex.def)             Requested size: 166.72333pt x 108.90538pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1998--2000
+Underfull \hbox (badness 10000) in paragraph at lines 1996--1998
 [][]
  []
 
 <figs/fig_5.2.png, id=119, 1217.0268pt x 794.97pt>
 File: figs/fig_5.2.png Graphic file (type png)
 <use figs/fig_5.2.png>
-Package pdftex.def Info: figs/fig_5.2.png  used on input line 2003.
+Package pdftex.def Info: figs/fig_5.2.png  used on input line 2001.
 (pdftex.def)             Requested size: 166.72333pt x 108.90538pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2003--2005
+Underfull \hbox (badness 10000) in paragraph at lines 2001--2003
 [][]
  []
 
 <figs/fig_5.3.png, id=120, 1217.0268pt x 794.97pt>
 File: figs/fig_5.3.png Graphic file (type png)
 <use figs/fig_5.3.png>
-Package pdftex.def Info: figs/fig_5.3.png  used on input line 2008.
+Package pdftex.def Info: figs/fig_5.3.png  used on input line 2006.
 (pdftex.def)             Requested size: 166.72333pt x 108.90538pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2008--2010
+Underfull \hbox (badness 10000) in paragraph at lines 2006--2008
 [][]
  []
 
 <figs/fig_5.4.png, id=121, 1217.0268pt x 794.97pt>
 File: figs/fig_5.4.png Graphic file (type png)
 <use figs/fig_5.4.png>
-Package pdftex.def Info: figs/fig_5.4.png  used on input line 2013.
+Package pdftex.def Info: figs/fig_5.4.png  used on input line 2011.
 (pdftex.def)             Requested size: 166.72333pt x 108.90538pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2013--2015
+Underfull \hbox (badness 10000) in paragraph at lines 2011--2013
 [][]
  []
 
@@ -760,60 +760,60 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figs/fig_6.1.png, id=131, 946.0143pt x 860.013pt>
 File: figs/fig_6.1.png Graphic file (type png)
 <use figs/fig_6.1.png>
-Package pdftex.def Info: figs/fig_6.1.png  used on input line 2071.
+Package pdftex.def Info: figs/fig_6.1.png  used on input line 2069.
 (pdftex.def)             Requested size: 166.72333pt x 151.56746pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2071--2073
+Underfull \hbox (badness 10000) in paragraph at lines 2069--2071
 [][]
  []
 
 <figs/fig_6.2.png, id=132, 946.0143pt x 860.013pt>
 File: figs/fig_6.2.png Graphic file (type png)
 <use figs/fig_6.2.png>
-Package pdftex.def Info: figs/fig_6.2.png  used on input line 2075.
+Package pdftex.def Info: figs/fig_6.2.png  used on input line 2073.
 (pdftex.def)             Requested size: 166.72333pt x 151.56746pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2075--2077
+Underfull \hbox (badness 10000) in paragraph at lines 2073--2075
 [][]
  []
 
 <figs/fig_6.3.png, id=133, 946.0143pt x 860.013pt>
 File: figs/fig_6.3.png Graphic file (type png)
 <use figs/fig_6.3.png>
-Package pdftex.def Info: figs/fig_6.3.png  used on input line 2080.
+Package pdftex.def Info: figs/fig_6.3.png  used on input line 2078.
 (pdftex.def)             Requested size: 85.21313pt x 77.46344pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2080--2082
+Underfull \hbox (badness 10000) in paragraph at lines 2078--2080
 [][]
  []
 
 <figs/fig_6.4.png, id=134, 946.0143pt x 860.013pt>
 File: figs/fig_6.4.png Graphic file (type png)
 <use figs/fig_6.4.png>
-Package pdftex.def Info: figs/fig_6.4.png  used on input line 2084.
+Package pdftex.def Info: figs/fig_6.4.png  used on input line 2082.
 (pdftex.def)             Requested size: 85.21313pt x 77.46344pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2084--2086
+Underfull \hbox (badness 10000) in paragraph at lines 2082--2084
 [][]
  []
 
 <figs/fig_6.5.png, id=135, 946.0143pt x 860.013pt>
 File: figs/fig_6.5.png Graphic file (type png)
 <use figs/fig_6.5.png>
-Package pdftex.def Info: figs/fig_6.5.png  used on input line 2088.
+Package pdftex.def Info: figs/fig_6.5.png  used on input line 2086.
 (pdftex.def)             Requested size: 85.21313pt x 77.46344pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2088--2090
+Underfull \hbox (badness 10000) in paragraph at lines 2086--2088
 [][]
  []
 
 <figs/fig_6.6.png, id=136, 946.0143pt x 860.013pt>
 File: figs/fig_6.6.png Graphic file (type png)
 <use figs/fig_6.6.png>
-Package pdftex.def Info: figs/fig_6.6.png  used on input line 2092.
+Package pdftex.def Info: figs/fig_6.6.png  used on input line 2090.
 (pdftex.def)             Requested size: 85.21313pt x 77.46344pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2092--2094
+Underfull \hbox (badness 10000) in paragraph at lines 2090--2092
 [][]
  []
 
@@ -821,7 +821,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2092--2094
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (6.54965pt too wide) in paragraph at lines 2128--2133
+Overfull \hbox (6.54965pt too wide) in paragraph at lines 2126--2131
 []\OT1/cmr/bx/n/12 w/o STD+DYN\OT1/cmr/m/n/12 : This vari-ant re-places the gra
 ph struc-ture con-structed
  []
@@ -834,7 +834,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 5.4.png>] [29 <./figs/fig_6.1.png> <./figs/fig_6.2.png> <./figs/fig_6.3.png> <.
 /figs/fig_6.4.png> <./figs/fig_6.5.png> <./figs/fig_6.6.png>]
 (./elsarticle-template-num.bbl [30] [31] [32] [33] [34] [35] [36]) [37]
-(./elsarticle-template-num.aux) ) 
+(./elsarticle-template-num.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  9478 strings out of 476025
  172446 string characters out of 5790023
@@ -843,33 +847,33 @@ Here is how much of TeX's memory you used:
  525480 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,15n,76p,336b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmbx6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.p
-fb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/wasy-type1/wasy10.pfb>
-Output written on elsarticle-template-num.pdf (37 pages, 5243889 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/
+2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/202
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist
+/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2023/texmf-di
+st/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2023/texmf-dist
+/fonts/type1/public/wasy-type1/wasy10.pfb>
+Output written on elsarticle-template-num.pdf (37 pages, 5244155 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  165 compressed objects within 2 object streams
