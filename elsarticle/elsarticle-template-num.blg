@@ -7,45 +7,45 @@ Warning--can't use both volume and number fields in kong2024spatio
 Warning--can't use both volume and number fields in zhou2021informer
 Warning--can't use both volume and number fields in guo2019attention
 Warning--can't use both volume and number fields in song2020spatial
-You've used 55 entries,
+You've used 56 entries,
             1791 wiz_defined-function locations,
-            750 strings with 15151 characters,
-and the built_in function-call counts, 15947 in all, are:
-= -- 1385
-> -- 868
-< -- 20
-+ -- 310
-- -- 255
-* -- 1148
-:= -- 2472
-add.period$ -- 171
-call.type$ -- 55
-change.case$ -- 53
+            754 strings with 15325 characters,
+and the built_in function-call counts, 16278 in all, are:
+= -- 1416
+> -- 885
+< -- 21
++ -- 316
+- -- 260
+* -- 1163
+:= -- 2517
+add.period$ -- 174
+call.type$ -- 56
+change.case$ -- 54
 chr.to.int$ -- 0
-cite$ -- 59
-duplicate$ -- 688
-empty$ -- 1413
-format.name$ -- 255
-if$ -- 3557
+cite$ -- 60
+duplicate$ -- 710
+empty$ -- 1436
+format.name$ -- 260
+if$ -- 3639
 int.to.chr$ -- 0
-int.to.str$ -- 55
-missing$ -- 57
-newline$ -- 278
-num.names$ -- 55
-pop$ -- 162
+int.to.str$ -- 56
+missing$ -- 58
+newline$ -- 283
+num.names$ -- 56
+pop$ -- 166
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 391
+skip$ -- 411
 stack$ -- 0
-substring$ -- 1176
-swap$ -- 237
-text.length$ -- 20
+substring$ -- 1188
+swap$ -- 251
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 143
-width$ -- 57
-write$ -- 602
+while$ -- 145
+width$ -- 58
+write$ -- 613
 (There were 4 warnings)
